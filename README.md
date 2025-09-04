@@ -1,8 +1,33 @@
-# React + Vite
+# ⚡ SwiftSlice  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SwiftSlice is a simple and blazing-fast web app for ordering pizza.  
+No clutter, no waiting — just hot, cheesy pizza at your fingertips.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
+
+- 🥡 **One-Tap Ordering** – Order your favorite pizza in seconds.  
+- 🍕 **Customizable Pizzas** – Choose size, crust, and toppings with ease.  
+- ⚡ **Lightning-Fast Checkout** – Designed with speed in mind.  
+- 📱 **Responsive Design** – Works beautifully on desktop, tablet, and mobile.  
+- 🔥 **Real-Time Updates** – Track your order as it’s prepared and delivered.  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** React + Vite  
+- **State Management:** Redux Toolkit  
+- **Styling:** TailwindCSS  
+- **Backend (optional):** Node.js + Express  
+- **Database (optional):** MongoDB  
+
+---
+
+## 📦 Installation  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/swiftslice.git
+   cd swiftslice
